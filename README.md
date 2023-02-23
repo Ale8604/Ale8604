@@ -1,5 +1,5 @@
 # ¡Hola, mi nombre es Alejandro Sotelo! Bienvenido a mi perfil👀
-Soy Alejandro Sotelo, tengo 19 años. Soy un desarrollador full Stack<br>que busca iniciar su experiencia profesional y formar parte de una <br>empresa que me brinde la oportunidad de desarrollar nuevas habilidades <br>y competencias para seguir creciendo en el ámbito profesional.⚡
+<p align="center">Soy Alejandro Sotelo, tengo 19 años. Soy un desarrollador full Stack<br>que busca iniciar su experiencia profesional y formar parte de una <br>empresa que me brinde la oportunidad de desarrollar nuevas habilidades <br>y competencias para seguir creciendo en el ámbito profesional.⚡</p>
 
 
 # 💻 Tech Stack:
